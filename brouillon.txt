@@ -1,0 +1,131 @@
+BROUILLON SITE CV
+
+/*
+.Formations{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 100px;
+  left: 1280px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 20px;
+  border-radius: 100px;
+  opacity: 0.2;
+}
+
+.Experience{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 180px; 
+  left: 1283px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 22px;
+  border-radius: 100px;
+  opacity: 0.2;
+
+}
+
+.Competences{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 265px;
+  left: 1275px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 22px;
+  border-radius: 100px;
+  opacity: 0.2;
+
+}
+
+.Langues{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 350px;
+  left: 1300px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 22px;
+  border-radius: 100px;
+  opacity: 0.2;
+
+}
+
+.Centre{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 440px;
+  left: 1270px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 22px;
+  border-radius: 100px;
+  opacity: 0.2;
+  position: fixed;
+}
+
+.Contact{
+  position: absolute;
+  font-size: 1.2em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  top: 530px;
+  left: 1305px;
+  padding: 22px;
+  border-radius: 100px;
+  opacity: 0.2;
+  position: fixed;
+}
+
+
+
+
+.retour{
+  position: absolute;
+  font-size: 0.8em;
+  color: rgb(5, 5, 5);
+  font-weight: bold;
+  font-family:'Roboto', sans-serif; 
+  top: 30px;
+  left: 30px;
+  border-top: 3px white double;
+  border-right: 3px white double;
+  border-bottom: 3px white double;
+  border-left: 3px white double;
+  padding: 17px;
+  border-radius: 100px;
+  opacity: 0.2;
+  position: fixed;
+}
+*/
